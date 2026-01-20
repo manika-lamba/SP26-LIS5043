@@ -1,0 +1,377 @@
+---
+title: "Organization of Information: An Overview"
+subtitle: "LIS 5043: Organization of Information"
+author: 
+  - Dr. Manika Lamba
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    show-notes: separate-page
+    logo: images/ou.png
+    css: styles.css
+---
+
+## Welcome! {.smaller}
+
+::: columns
+::: {.column width="30%"}
+![](images/prof_pic.jpg){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+`Dr. Manika Lamba`
+
+`Office:` Room 118E, Bizzell Library
+
+`Office hours:` Tuesdays & Thursdays (2:30-5 PM) or by appointment
+
+`Email:` manika\@ou.edu
+
+`Research interests:` information organization, digital libraries, science of science using text mining, NLP, & machine learning
+:::
+:::
+
+::: footer
+<https://manika-lamba.github.io/>
+:::
+
+::: notes
+Welcome to the Module 1. In this module you will be introduced to the "big picture" of organization of information and knowledge.
+
+In this lecture, we will explore the different dimensions that we consider when we organize knowledge regardless of context, resource formats, or user population.
+
+Throughout the semester each of the topics presented in this lecture will be explored in depth.
+:::
+
+## Information -- Some Definitions {.smaller}
+
+> "Something received or obtained through informing. Informing is done through the mechanisms of sending a message or communication; thus, information is"the content of a message" or "something that is communicated." (Svenonius, 2000, p. 7)
+
+"The term document \[...\] to refer to an information-bearing message in recorded form:
+
+-   a piece of information
+
+-   a writing (as a book, report, or letter) conveying information
+
+-   a material having on it (as a coin or stone) a representation of the thoughts of men by means of some conventional mark or symbol" (Svenonius, 2000, p. 8 *apud* Webster's Third New International Dictionary, 1966)
+
+> [Information is an abstract, but the documents that contain it are embodied in some medium, such as paper, canvas, stone, glass, floppy disks, or computer chips. Potentially any medium can serve as a carrier of information"]{style="color: blue;"} (Svenonius, 2000, p. 8)
+
+## Organizing Information {.smaller}
+
+::: columns
+::: {.column width="50%"}
+> "Organizing information would seem to be no different from organizing anything else. \[...\] But there are important differences"
+
+However, it cannot be interpreted as database modeling techniques used for organizing entities
+
+> ["One that is particularly important \[...\] is that two distinct entities need to be organized in tandem \[in conjunction\] and with respect to each other: works and the documents that embody them."]{style="color: blue;"}
+:::
+
+::: {.column width="50%"}
+![Svenonius (2000)](images/svenonius.jpg){fig-align="center" width="40%"}
+:::
+:::
+
+::: footer
+[Link to the Book](https://mitpress.mit.edu/9780262512619/the-intellectual-foundation-of-information-organization/)
+:::
+
+::: notes
+:::
+
+## What is information organization? {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   Approaches have evolved over time
+-   The digital revolution is prompting us to question established practices and the scope of our responsibility:
+    -   `What is a document?`
+    -   `What is a collection?`
+    -   `What are the best practices for organizing and accessing information resources?`
+    -   `How have these things changed?`
+:::
+
+::: {.column width="50%"}
+-   The creation of a system
+    -   `that lets people do things`
+        -   finds, manage, select, locate, obtain
+    -   `with the things that carry information`
+        -   an intellectual or creative work
+        -   a text in a specific language
+        -   a file with a specific format
+        -   a physical item
+:::
+:::
+
+::: notes
+George A. Miller in 1983 coined the term "informavore". Humans are by nature informavores, because it is our innate need to seek out and gather information. Once we "gather" information or knowledge, we need to be able to use it in an effective & efficient manner, we have to organize it in some way.
+
+Thus, information organization is a creation of system that helps us to find, manage, select, locate and obtain things that carry information.
+:::
+
+## Core library activities {.smaller}
+
+-   Identify, acquire, preserve, and provide access to the world's published knowledge
+
+-   Promote equity of access to information
+
+-   Promote intellectual freedom
+
+-   Support education and continuous learning and research
+
+-   Support the development of information literacy in society
+
+-   Serve as focal points for communities and promote community interests
+
+-   Information organization should work to support all of these activities
+
+## Why do we need information organization? {.smaller}
+
+-   `Understand` \-- We organize information to make sense of it, to make it useful to use in some way
+
+-   `Save time` \-- We organize information to provide information in a timely manner
+
+-   `Collocate` \-- We organize information to bring together things or ideas together into a group
+
+-   `Retrieve` \-- We organize information in order to retrieve it
+
+::: notes
+We know pretty well how to find information. The new frontier is to assist users in making sense of it. It may be even better to have a system to process all the raw information and provide a ready-made answer that the user can apply directly, taking a lot of work off the user. Or a system that can read a document and extract the pertinent information, so the user does not have to read the entire thing. These advanced user-friendly functions require sophisticated systems, and we will talk about that as part of the course in Modules 3 & 4
+:::
+
+## How do we organize information? {.smaller}
+
+-   Two basic operations
+
+    -   `Lumping`
+    -   `Splitting`
+
+-   Grouping things together based on their similarities
+
+-   Differentiating one thing form another
+
+-   Through Representation
+
+::: notes
+We will talk more about this in Modules 2-4, but we organize information through two basic operations: lumping and splitting
+
+Lumping is group similar things to form categories or classes. For example, in classification, taxonomy and ontology building, we do lumping where we group together similar entities.
+
+Splitting is differentiating one thing from another and create separate distinct representations for each object in our collection.
+:::
+
+## What do we need to know for organizing information? {.smaller}
+
+-   The needs, capabilities, and behaviors of users
+-   The nature of information
+-   Concepts and processes for describing information objects
+-   The way information systems work
+
+::: notes
+There are many dimensions we need to know about when organizing information. Some of them are shown on the screen which include the ....
+:::
+
+## Users as our main focus {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   [What is a user?]{style="color: blue;"} *(can machines be user?)*
+-   [Who are they?]{style="color: blue;"} *(demographics, experience level)*
+-   [Why are they seeking information? What are their information needs?]{style="color: blue;"} *(information behavior)*
+:::
+
+::: {.column width="50%"}
+[![A model of information behavior by Wilson (1981)](images/user-needs.png){fig-align="center"}](https://doi.org/10.1108/00220410610714895)
+:::
+:::
+
+::: footer
+<https://doi.org/10.1108/eb026702>
+:::
+
+::: notes
+We talk about organizing information for one purpose and one purpose only: to assist users.
+
+The needs of the users are central to what we do. We need to assist users in answering questions and solving problems.
+
+We actually need to know quite a bit about our users especially if we hope to effectively connect them with the information they need.
+
+We need to assist users with understanding the information; that means assimilating information, digesting it, and processing it to answer the questions they have and to apply those answers to solve the problem at hand.
+:::
+
+## What do we organize? {.smaller}
+
+[![](images/universe.png){fig-align="center"}](https://doi.org/10.1108/00220410610714895)
+
+::: notes
+The "universe of knowledge" is an abstract concept, which embraces all knowledge-related objects, events and phenomena and, as such, clearly interacts with the "physical universe".
+
+This figure by T.D. Wilson tries to capture the complex interactions of the physical and abstract universes, where "user's life world" can be defined as the totality of experiences centred upon the individual as an information user. Within this life-world one important sub-world will be the world of work, within which will exist various "reference groups" with which the user identifies: fellow professionals, the peer group within an organization and so on.
+
+The user will be in contact with a variety of "information systems". Within the information system two subsystems are shown: the "mediator" (generally a living system, i.e. a human being) and the "technology", used here in the general sense of whatever combination of techniques, tools and machines constitute the information-searching subsystem.
+
+The information system must have access to various "embodiments of know-ledge", phrased in this general way to indicate that such embodiments may be documents or living people.
+
+The Buckland reading will have you reconsider what a "document" is and how we can organize it/them. Buckland is one of the innovative and philosophical information scientists that we will read this semester.
+
+In LIS, we often refer to information objects that we can organize as the bibliographic universe.
+
+As long as the information is RECORDED in some way, we can organize it. What we cannot organize are intangible objects such as spoken stories or histories. BUT once we record them via video or audio, then we CAN organize them.
+:::
+
+::: footer
+<https://doi.org/10.1108/eb026702>
+:::
+
+## Information Objects {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   Books
+-   Journals
+-   Paintings
+-   Websites
+-   Maps
+-   Videos
+-   Music
+:::
+
+::: {.column width="50%"}
+-   Blogs
+-   Social Media Posts
+-   Sound Recordings
+-   Photographs
+-   Computer
+-   Files
+:::
+:::
+
+::: notes
+HOW would you organize a blog? Or an mp3 file? Or a podcast?
+
+These are real issues that libraries and information organizations have to consider. We have good structures for organizing books or even maps, but what do we do with digital media?
+
+We will address these issues in Modules 2 and 5.
+:::
+
+## Expression & Representation of Information {.smaller}
+
+-   Ideas, information, knowledge, etc. are represented in recorded form (eg., essay, novel, movie, art object, sound recording, digital photos)
+-   Information professionals create representations of the information object (container and content)
+-   These representations, or surrogates, are often what users first encounter in information seeking
+
+![](images/representation.png){fig-align="center"}
+
+::: notes
+REPRESENTATION is a central concept in organizing information. There are actually several levels of representation we will be considering in Module 2.
+
+Representation of an author's expression through book or in sheet music, once it is recorded, it becomes a tangible representation of idea.
+
+The user can now search for and find another representation of the object the database record that describes it, that was created by either a cataloger, database developer, indexer, etc.
+
+In libraries, we CATALOG items and we in effect create a short representation of the object that is encoded into our library catalog or OPAC. We use standards for the elements we do represent (author, title, date, subject, etc.) AND we use standards for how we enter this information into the database fields (in MARC records and by using AACR2 (now we are changing to use the new standard, RDA), subject headings lists, and classification schemes).
+
+We will learn more about the tools, processes, etc. for creating representations in Modules 2 and 5
+:::
+
+## Information Systems {.smaller}
+
+-   An Information System is a "[*formal socio-technical system to collect, process, and share information of any kind. It is a means to connect people, information, and technology to carry out particular tasks in a defined manner*]{style="color: green;"}" [(Bawden & Robinson, 2022)](https://www.routledge.com/Introduction-to-Information-Science/Bawden-Robinson/p/book/9781783304950)
+
+-   An `Information Organization Framework` consists of `Information Organization Systems` *(such as classification schemes, taxonomies, ontologies, bibliographic descriptions, etc.)* [(Tennis, 2006)](https://faculty.washington.edu/jtennis/Publications_files/Tennis2006ISKO.pdf)
+
+-   Information organization frameworks comprise bibliographic control, information retrieval, resource discovery, resource description, open access scholarly indexing, personal information management protocols, and social tagging
+
+## System of organization {.smaller}
+
+-   Representation of a thing that carries information
+-   Connecting (embedding or associating) description with information objects
+
+![](images/org.png){fig-align="center"}
+
+## Example of system of organization: Bibliographic systems
+
+![](images/system-example.png){fig-align="center"}
+
+## Library Catalog
+
+![](images/ou-library.png){fig-align="center"}
+
+::: footer
+<https://libraries.ou.edu/>
+:::
+
+::: notes
+In Module 4 we will look at many examples of information systems and how they work.
+:::
+
+## Information retrieval systems {.smaller}
+
+-   Central tool in information system
+-   User interacts with IR system in searching
+-   Components of an information retrieval (IR) system
+
+::: columns
+::: {.column width="50%"}
+1.  An `interface` where a user interacts with the IR system - Could be a person or a computer screen
+2.  A `language` the user and system share to communicate - Natural language or structured search language
+3.  A `set of representations` of information objects
+4.  A `matching component` - Matches users requests and the representations
+:::
+
+::: {.column width="50%"}
+5.  An `interaction component` - Allows iterative requests and responses
+6.  A `set of messages` between the user and the system - Searches, results, error messages, etc
+:::
+:::
+
+::: notes
+More specifically, we will address information retrieval systems and look closer at the components of information systems. Many of them are listed above in this slide. Spend some time as you do your readings for this module thinking about WHY these components are important to know.
+:::
+
+## Challenges of organizing information & knowledge {.smaller}
+
+-   Goal is to `connect` users to the information\
+-   There is no one "correct" way to organize information
+    -   `Build` upon past practices and understandings
+-   Remember that `representations` is central concept
+    -   Create representations that serve users, not just the librarians
+    -   Accept that there is not one right representation for all users/user groups
+-   Address the `digital (and AI!) environment` with its more complex and multifaceted information objects
+    -   The Universe of Knowledge is vast and evolving due to new technologies, changes to culture, and the increased accessibility of digital resources
+
+::: notes
+It is both challenging and exciting to organize information
+
+I hope you will develop a passionate understanding of the role it plays in your chosen profession and in your lives. This class will help you achieve that goal.
+
+I say it is challenging because organizing information, more than any other area of our field, is constantly changing. We build on past practices and tools, but we have to also deal with new media or forms of expression as they are developed.
+
+As new technologies are developed and society changes, users' use and expectations of how WE organize information also change and we have to change right along with it all.
+
+In this class representation will be a central concept we address from many levels and in many contexts. We will take a look at how different representations are created for specific users, in diverse contexts, and for many reasons. We will also address the ethics associated with creating representations for diverse populations.
+
+Further, we will address the digital environment and its complex, multifaceted objects that we need to develop new thinking about.
+:::
+
+## Going Forward {.smaller}
+
+-   We will use a conceptual/practice-based approach to information organization
+
+-   We will balance the conceptual with practice hands on work
+
+    -   The Learning Activities and Exercises will require you to grapple with the concepts and put them to work
+
+-   You will be introduced to new technical terminology and tools
+
+::: notes
+I am here to work with you as you learn more about organizing information and knowledge.
+
+Don't hesitate to post your questions to the Questions and Answers discussion board in our class Canvas site.
+
+See you next week!
+:::
